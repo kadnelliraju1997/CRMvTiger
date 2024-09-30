@@ -8,5 +8,10 @@ public class Test2 extends BaseClass1{
 	void test() {
 		System.out.println("test1");
 	}
+	
+	@Test
+	void test1() {
+		System.out.println("test1");
+	}
 
 }
